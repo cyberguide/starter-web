@@ -4,6 +4,8 @@ copyright statement
 
 This repository is for showing how Git and GitHub work
 
+More text to put here and there.
+
 ## Introduction
 
 ## Purpose
