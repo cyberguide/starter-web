@@ -20,3 +20,6 @@ gloosary terms
 
 bonus material
 
+## some important changes
+
+more text
