@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+copyright statement
+
 This repository is for showing how Git and GitHub work
 
 ## Introduction
@@ -17,3 +19,4 @@ gloosary terms
 ## Follow Up
 
 bonus material
+
