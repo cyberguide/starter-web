@@ -3,6 +3,8 @@
 
 # TEAM
 
+    player1 some at one
+	player2 some at two
     <name> -- <role> -- <twitter>
 
 # THANKS
